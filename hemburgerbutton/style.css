@@ -16,14 +16,14 @@ body {
     justify-content: center;
     font-family: "poppins", "sans-serif";
     min-height: 100vh;
-    background-color: #333;
+  
 
 
 } 
 
   
 
-button {
+#btn {
     position: fixed;
     top: 20px;
     right: 20px;
@@ -45,9 +45,10 @@ button {
 	text-shadow:0px 1px 0px #cc9f52;
 }
 
-button.active {
+btn.active {
     transform: translateX(-100px);
 }
+
 
 nav {
     position: fixed;
@@ -74,7 +75,7 @@ gap: .5rem;
 }
 
 nav ul li {
-   padding-right: 3rem;
+   padding-right: 8rem;
 }
 
 nav a {
@@ -82,3 +83,22 @@ nav a {
 }
 
 
+
+
+body.dark{
+    color: #fff;
+    background-color: #333;
+}
+    
+    
+    #toggle {
+      border: none;
+      outline: none;
+      font-size: 2rem;
+      background: none;
+      position: fixed;
+      top: 20px;
+      right: 80px;
+      
+      z-index: 3; /* Add this line */
+    }
