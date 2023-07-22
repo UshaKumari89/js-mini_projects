@@ -18,4 +18,8 @@ when you click a button a popup box will appear with a heading, text and and a c
 
 
 #  05 heart rain using js 
-![Alt text](image.png)
+![Alt text](heartRain.png)
+
+
+# 06 change a background color when you click a button!!
+![Alt text](bgColor.png)
