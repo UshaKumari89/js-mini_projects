@@ -23,3 +23,6 @@ when you click a button a popup box will appear with a heading, text and and a c
 
 # 06 change a background color when you click a button!!
 ![Alt text](bgColor.png)
+
+# 07 dark mode toggle 
+![Alt text](darkMode.png.png)
