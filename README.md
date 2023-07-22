@@ -25,4 +25,4 @@ when you click a button a popup box will appear with a heading, text and and a c
 ![Alt text](bgColor.png)
 
 # 07 dark mode toggle 
-![Alt text](darkMode.png.png)
+![Alt text](darkMode.png)
